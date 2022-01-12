@@ -33,9 +33,8 @@ Generates 1 or more version 4 UUID(s).
 Synopsis: `<trigger> [amount]`
 
 Example: 
-
-`"uuid"`: generate 1 random UUID and copy to the clipboard.
-`"uuid 42"`: generate 42 random UUIDs and copy to the clipboard, the UUIDs will be separated by the newline-character.
+- `uuid`: generate 1 random UUID and copy to the clipboard.
+- `uuid 42`: generate 42 random UUIDs and copy to the clipboard, the UUIDs will be separated by the newline-character.
 
 ## Contributing
 
