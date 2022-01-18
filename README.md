@@ -1,6 +1,6 @@
 # albert-uuid-gen
 
-Extension for rolling dice in Albert launcher
+Extension for generating version 4 UUIDs in Albert launcher
 
 ## Installation
 
