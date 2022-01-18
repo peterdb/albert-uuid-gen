@@ -1,6 +1,6 @@
 # albert-uuid-gen
 
-Extension for generating version 4 UUIDs in Albert launcher
+Extension for generating version 4 [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier)s in [Albert launcher](https://albertlauncher.github.io/).
 
 ## Installation
 
